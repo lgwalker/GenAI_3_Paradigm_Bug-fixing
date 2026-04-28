@@ -1,5 +1,3 @@
-# GenAI 3 Paradigm Bug Fixing
-
 # Pre-training, Fine-tuning, and Prompting Strategies for Bug Fixing
 
 **CSCI 455 — GenAI for Software Development**  
