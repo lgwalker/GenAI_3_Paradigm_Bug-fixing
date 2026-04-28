@@ -26,6 +26,7 @@ This project investigates whether pre-training helps a small language model lear
 ├── 02_finetuning.ipynb                 # Fine-tuning Pipelines A and B
 ├── 03_eval_and_rag.ipynb               # Evaluation (CodeBLEU + exact match) + RAG system
 ├── README.md
+├── requirements.txt
 │
 ├── java_tokenizer/                     # Saved SentencePiece tokenizer (created by Notebook 1)
 ├── final_pretrained_model/             # Pre-trained T5 checkpoint (created by Notebook 1)
