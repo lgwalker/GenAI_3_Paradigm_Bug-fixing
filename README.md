@@ -1,1 +1,1 @@
-# GenAI_Bug-Fixing_Pre-training_Fine-tuning_Prompting
+# GenAI 3 Paradigm Bug Fixing
