@@ -48,6 +48,12 @@ This project investigates whether pre-training helps a small language model lear
 ### Python
 Python 3.10 
 
+### Create Virtual Environment
+```bash
+python3.10 -m venv .venv
+source .venv/bin/activate
+```
+
 ### Install Dependencies
 
 Each notebook includes its own install cell at the top. To install everything upfront:
