@@ -139,6 +139,20 @@ Run the three notebooks in order. Each notebook saves its outputs to disk so the
 **Outputs written to:**
 - `./eval_results/results_summary.json` — all four configurations, full metric breakdown
 
+### Holistic Reproducibility - `pretrain.py`, `finetune.py`, `eval_rag.py`
+```bash
+# Pretrain
+python pretrain.py
+
+# Finetune
+python finetune.py
+
+# Eval & RAG
+python eval_rag.py
+
+# result in same output files from the jupyter notebooks
+```
+
 ---
 
 ## Results Summary
