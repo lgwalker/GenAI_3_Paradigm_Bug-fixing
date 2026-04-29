@@ -22,6 +22,14 @@ This project investigates whether pre-training helps a small language model lear
 
 ```
 .
+┌── src
+    ├── collators.py
+    ├── dataset_utils.py
+    ├── models.py
+    ├── tokenizer_utils.py
+    ├── pretrain.py                     # Holistic pretrain
+    ├── finetune.py                     # Holistic finetune
+    ├── eval_rag.py                     # Holistic eval and rag
 ├── 01_tokenizing_and_data_prep.ipynb   # Tokenizer training, model init, pre-training (Pipeline A)
 ├── 02_finetuning.ipynb                 # Fine-tuning Pipelines A and B
 ├── 03_eval_and_rag.ipynb               # Evaluation (CodeBLEU + exact match) + RAG system
