@@ -172,4 +172,3 @@ python eval_rag.py
 | Qwen 1.5B Zero-Shot | 0.00% | 0.3574 | 0.0678 | 0.5583 | 0.6857 |
 | Qwen 1.5B RAG (3-Shot) | 0.00% | 0.5409 | 0.4283 | 0.6228 | 0.6675 |
 
-Fine-tuning from scratch (Pipeline B) achieved the best overall performance. RAG provided a substantial boost to Qwen over zero-shot (+51% relative CodeBLEU) but did not match either fine-tuned T5 model.
